@@ -2,7 +2,7 @@
 
 Hi! I am a final-year student preparing to get a job in Machine Learning and Deep Learning in the next 4–5 months.
 
-This repository contains all the basic Python programs I wrote while learning Python. It is part of my foundation-building journey for ML & DL.
+This repository contains all the basic Python programs I wrote while learning Python. It is part of my foundation-building journey for Machine learning.
 
 ## 📚 Learning Resource
 
